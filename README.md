@@ -12,3 +12,5 @@ https://andybuzzi.github.io/run-buddy/
 
 ## Contribution 
 Made with ❤️ by Anderson Buzzi
+
+### ©️2019 Run Buddy, Inc
